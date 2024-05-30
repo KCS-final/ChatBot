@@ -1,0 +1,30 @@
+{
+	"table": "auction_progress_item",
+	"rows":
+	[
+		{
+			"item_title": "직접 낳은 병아리 장난감이에요.",
+			"item_id": 1
+		},
+		{
+			"item_title": "물에서 태어난 오리에요.",
+			"item_id": 2
+		},
+		{
+			"item_title": "사마귀팔아요.",
+			"item_id": 3
+		},
+		{
+			"item_title": "이물건은십사개의글자를넘고있지요.",
+			"item_id": 4
+		},
+		{
+			"item_title": "가슴으로 키운 강아지 키워요.",
+			"item_id": 5
+		},
+		{
+			"item_title": "지뢰팔아요.",
+			"item_id": 6
+		}
+	]
+}
